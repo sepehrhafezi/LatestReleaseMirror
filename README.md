@@ -165,5 +165,5 @@ sha256sum FILE_NAME
 
 | File | Size | Download |
 |------|------|----------|
-| `mhrv-rs-windows-amd64.zip` | 6.9 MB | [⬇️ Download](https://raw.githubusercontent.com/sepehrhafezi/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-windows-amd64.zip) |
+| `mhrv-rs-android-universal-v1.9.8.apk` | 39.1 MB | [⬇️ Download](https://raw.githubusercontent.com/sepehrhafezi/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-universal-v1.9.8.apk) |
 <!-- RELEASES_END -->
