@@ -157,14 +157,13 @@ sha256sum FILE_NAME
 
 
 <!-- RELEASES_START -->
-<div id="2dust--v2rayng"></div>
+<div id="minio--certgen"></div>
 
-### 2dust--v2rayNG
+### minio--certgen
 
-🔗 [source](https://github.com/2dust/v2rayNG) – [<code><small>2.0.18</small></code>](https://github.com/2dust/v2rayNG/releases/tag/2.0.18)
+🔗 [source](https://github.com/minio/certgen) – [<code><small>v1.4.0</small></code>](https://github.com/minio/certgen/releases/tag/v1.4.0)
 
 | File | Size | Download |
 |------|------|----------|
-| `v2rayNG_2.0.18-fdroid_arm64-v8a.apk` | 26.7 MB | [⬇️ Download](https://raw.githubusercontent.com/sepehrhafezi/LatestReleaseMirror/main/releases/2dust/v2rayNG/v2rayNG_2.0.18-fdroid_arm64-v8a.apk) |
-| `v2rayNG_2.0.18_arm64-v8a.apk` | 26.7 MB | [⬇️ Download](https://raw.githubusercontent.com/sepehrhafezi/LatestReleaseMirror/main/releases/2dust/v2rayNG/v2rayNG_2.0.18_arm64-v8a.apk) |
+| `certgen-windows-amd64.exe` | 3.5 MB | [⬇️ Download](https://raw.githubusercontent.com/sepehrhafezi/LatestReleaseMirror/main/releases/minio/certgen/certgen-windows-amd64.exe) |
 <!-- RELEASES_END -->
