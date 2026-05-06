@@ -157,13 +157,13 @@ sha256sum FILE_NAME
 
 
 <!-- RELEASES_START -->
-<div id="anonvector--slipnet"></div>
+<div id="git-for-windows--git"></div>
 
-### anonvector--SlipNet
+### git-for-windows--git
 
-🔗 [source](https://github.com/anonvector/SlipNet) – [<code><small>v2.5.3</small></code>](https://github.com/anonvector/SlipNet/releases/tag/v2.5.3)
+🔗 [source](https://github.com/git-for-windows/git) – [<code><small>v2.54.0.windows.1</small></code>](https://github.com/git-for-windows/git/releases/tag/v2.54.0.windows.1)
 
 | File | Size | Download |
 |------|------|----------|
-| `slipnet-windows-amd64.exe` | 11.1 MB | [⬇️ Download](https://raw.githubusercontent.com/sepehrhafezi/LatestReleaseMirror/main/releases/anonvector/SlipNet/slipnet-windows-amd64.exe) |
+| `Git-2.54.0-64-bit.exe` | 62.1 MB | [⬇️ Download](https://raw.githubusercontent.com/sepehrhafezi/LatestReleaseMirror/main/releases/git-for-windows/git/Git-2.54.0-64-bit.exe) |
 <!-- RELEASES_END -->
