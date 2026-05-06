@@ -4,7 +4,7 @@
 # Filters are case‑insensitive regular expressions (grep -E).
 
 # therealaleph/MasterHttpRelayVPN-RUST|windows-amd64
-# therealaleph/MasterHttpRelayVPN-RUST|android-universal
+therealaleph/MasterHttpRelayVPN-RUST|v8a-v.1.9.14
 
 # 2dust/v2rayNG|arm64-v8a
-minio/certgen|windows-amd64
+# minio/certgen|windows-amd64
