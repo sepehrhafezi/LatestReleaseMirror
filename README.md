@@ -165,5 +165,5 @@ sha256sum FILE_NAME
 
 | File | Size | Download |
 |------|------|----------|
-| `slipnet-darwin-amd64` | 11.0 MB | [⬇️ Download](https://raw.githubusercontent.com/sepehrhafezi/LatestReleaseMirror/main/releases/anonvector/SlipNet/slipnet-darwin-amd64) |
+| `slipnet-windows-amd64.exe` | 11.1 MB | [⬇️ Download](https://raw.githubusercontent.com/sepehrhafezi/LatestReleaseMirror/main/releases/anonvector/SlipNet/slipnet-windows-amd64.exe) |
 <!-- RELEASES_END -->
