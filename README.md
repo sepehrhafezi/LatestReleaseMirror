@@ -157,13 +157,5 @@ sha256sum FILE_NAME
 
 
 <!-- RELEASES_START -->
-<div id="minio--certgen"></div>
 
-### minio--certgen
-
-🔗 [source](https://github.com/minio/certgen) – [<code><small>v1.4.0</small></code>](https://github.com/minio/certgen/releases/tag/v1.4.0)
-
-| File | Size | Download |
-|------|------|----------|
-| `certgen-windows-amd64.exe` | 3.5 MB | [⬇️ Download](https://raw.githubusercontent.com/sepehrhafezi/LatestReleaseMirror/main/releases/minio/certgen/certgen-windows-amd64.exe) |
 <!-- RELEASES_END -->
