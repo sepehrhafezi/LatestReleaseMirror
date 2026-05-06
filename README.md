@@ -157,13 +157,13 @@ sha256sum FILE_NAME
 
 
 <!-- RELEASES_START -->
-<div id="therealaleph--masterhttprelayvpn-rust"></div>
+<div id="anonvector--slipnet"></div>
 
-### therealaleph--MasterHttpRelayVPN-RUST
+### anonvector--SlipNet
 
-🔗 [source](https://github.com/therealaleph/MasterHttpRelayVPN-RUST) – [<code><small>v1.9.14</small></code>](https://github.com/therealaleph/MasterHttpRelayVPN-RUST/releases/tag/v1.9.14)
+🔗 [source](https://github.com/anonvector/SlipNet) – [<code><small>v2.5.3</small></code>](https://github.com/anonvector/SlipNet/releases/tag/v2.5.3)
 
 | File | Size | Download |
 |------|------|----------|
-| `mhrv-rs-android-arm64-v8a-v1.9.14.apk` | 18.1 MB | [⬇️ Download](https://raw.githubusercontent.com/sepehrhafezi/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-arm64-v8a-v1.9.14.apk) |
+| `slipnet-darwin-amd64` | 11.0 MB | [⬇️ Download](https://raw.githubusercontent.com/sepehrhafezi/LatestReleaseMirror/main/releases/anonvector/SlipNet/slipnet-darwin-amd64) |
 <!-- RELEASES_END -->
