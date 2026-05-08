@@ -157,13 +157,13 @@ sha256sum FILE_NAME
 
 
 <!-- RELEASES_START -->
-<div id="git-for-windows--git"></div>
+<div id="therealaleph--masterhttprelayvpn-rust"></div>
 
-### git-for-windows--git
+### therealaleph--MasterHttpRelayVPN-RUST
 
-🔗 [source](https://github.com/git-for-windows/git) – [<code><small>v2.54.0.windows.1</small></code>](https://github.com/git-for-windows/git/releases/tag/v2.54.0.windows.1)
+🔗 [source](https://github.com/therealaleph/MasterHttpRelayVPN-RUST) – [<code><small>v1.9.18</small></code>](https://github.com/therealaleph/MasterHttpRelayVPN-RUST/releases/tag/v1.9.18)
 
 | File | Size | Download |
 |------|------|----------|
-| `Git-2.54.0-64-bit.exe` | 62.1 MB | [⬇️ Download](https://raw.githubusercontent.com/sepehrhafezi/LatestReleaseMirror/main/releases/git-for-windows/git/Git-2.54.0-64-bit.exe) |
+| `mhrv-rs-android-arm64-v8a-v1.9.18.apk` | 18.6 MB | [⬇️ Download](https://raw.githubusercontent.com/HS3p/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-arm64-v8a-v1.9.18.apk) |
 <!-- RELEASES_END -->
