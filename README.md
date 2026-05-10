@@ -157,13 +157,14 @@ sha256sum FILE_NAME
 
 
 <!-- RELEASES_START -->
-<div id="therealaleph--masterhttprelayvpn-rust"></div>
+<div id="iampedii--whitedns"></div>
 
-### therealaleph--MasterHttpRelayVPN-RUST
+### iampedii--whitedns
 
-🔗 [source](https://github.com/therealaleph/MasterHttpRelayVPN-RUST) – [<code><small>v1.9.18</small></code>](https://github.com/therealaleph/MasterHttpRelayVPN-RUST/releases/tag/v1.9.18)
+🔗 [source](https://github.com/iampedii/whitedns) – [<code><small>1.0.0</small></code>](https://github.com/iampedii/whitedns/releases/tag/1.0.0)
 
 | File | Size | Download |
 |------|------|----------|
-| `mhrv-rs-android-arm64-v8a-v1.9.18.apk` | 18.6 MB | [⬇️ Download](https://raw.githubusercontent.com/HS3p/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-arm64-v8a-v1.9.18.apk) |
+| `WhiteDNS-1.0.0-universal.apk` | 16.2 MB | [⬇️ Download](https://raw.githubusercontent.com/HS3p/LatestReleaseMirror/main/releases/iampedii/whitedns/WhiteDNS-1.0.0-universal.apk) |
+| `WhiteDNS-1.0.0-universal.apk.idsig` | 138 KB | [⬇️ Download](https://raw.githubusercontent.com/HS3p/LatestReleaseMirror/main/releases/iampedii/whitedns/WhiteDNS-1.0.0-universal.apk.idsig) |
 <!-- RELEASES_END -->
