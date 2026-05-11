@@ -161,10 +161,10 @@ sha256sum FILE_NAME
 
 ### iampedii--whitedns
 
-🔗 [source](https://github.com/iampedii/whitedns) – [<code><small>1.0.0</small></code>](https://github.com/iampedii/whitedns/releases/tag/1.0.0)
+🔗 [source](https://github.com/iampedii/whitedns) – [<code><small>1.1.0</small></code>](https://github.com/iampedii/whitedns/releases/tag/1.1.0)
 
 | File | Size | Download |
 |------|------|----------|
-| `WhiteDNS-1.0.0-universal.apk` | 16.2 MB | [⬇️ Download](https://raw.githubusercontent.com/HS3p/LatestReleaseMirror/main/releases/iampedii/whitedns/WhiteDNS-1.0.0-universal.apk) |
-| `WhiteDNS-1.0.0-universal.apk.idsig` | 138 KB | [⬇️ Download](https://raw.githubusercontent.com/HS3p/LatestReleaseMirror/main/releases/iampedii/whitedns/WhiteDNS-1.0.0-universal.apk.idsig) |
+| `WhiteDNS-1.1.0-universal.apk` | 16.2 MB | [⬇️ Download](https://raw.githubusercontent.com/HS3p/LatestReleaseMirror/main/releases/iampedii/whitedns/WhiteDNS-1.1.0-universal.apk) |
+| `WhiteDNS-1.1.0-universal.apk.idsig` | 138 KB | [⬇️ Download](https://raw.githubusercontent.com/HS3p/LatestReleaseMirror/main/releases/iampedii/whitedns/WhiteDNS-1.1.0-universal.apk.idsig) |
 <!-- RELEASES_END -->
