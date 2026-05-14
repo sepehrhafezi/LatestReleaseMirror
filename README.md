@@ -157,14 +157,13 @@ sha256sum FILE_NAME
 
 
 <!-- RELEASES_START -->
-<div id="iampedii--whitedns"></div>
+<div id="shirokhorshid--shirokhorshid-android"></div>
 
-### iampedii--whitedns
+### shirokhorshid--shirokhorshid-android
 
-🔗 [source](https://github.com/iampedii/whitedns) – [<code><small>1.1.0</small></code>](https://github.com/iampedii/whitedns/releases/tag/1.1.0)
+🔗 [source](https://github.com/shirokhorshid/shirokhorshid-android) – [<code><small>v2026.05.14-8a28d0c</small></code>](https://github.com/shirokhorshid/shirokhorshid-android/releases/tag/v2026.05.14-8a28d0c)
 
 | File | Size | Download |
 |------|------|----------|
-| `WhiteDNS-1.1.0-universal.apk` | 16.2 MB | [⬇️ Download](https://raw.githubusercontent.com/HS3p/LatestReleaseMirror/main/releases/iampedii/whitedns/WhiteDNS-1.1.0-universal.apk) |
-| `WhiteDNS-1.1.0-universal.apk.idsig` | 138 KB | [⬇️ Download](https://raw.githubusercontent.com/HS3p/LatestReleaseMirror/main/releases/iampedii/whitedns/WhiteDNS-1.1.0-universal.apk.idsig) |
+| `ShirOKhorshid-2026.05.14.apk` | 23.9 MB | [⬇️ Download](https://raw.githubusercontent.com/HS3p/LatestReleaseMirror/main/releases/shirokhorshid/shirokhorshid-android/ShirOKhorshid-2026.05.14.apk) |
 <!-- RELEASES_END -->
