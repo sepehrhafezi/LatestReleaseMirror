@@ -7,4 +7,5 @@
 # therealaleph/MasterHttpRelayVPN-RUST|mhrv-rs-android-arm64
 # anonvector/SlipNet|windows-amd64
 # git-for-windows/git|git-2.54.0-64-bit.exe
-iampedii/whitedns|universal
+# iampedii/whitedns|universal
+shirokhorshid/shirokhorshid-android|2026
